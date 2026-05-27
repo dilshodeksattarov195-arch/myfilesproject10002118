@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdetch",
+        "uuid": 10289244,
+        "checksum": "fh2akk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
